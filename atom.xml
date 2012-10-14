@@ -4,7 +4,7 @@
   <title><![CDATA[Tom's Coding Blog]]></title>
   <link href="http://tomku.forktree.com/atom.xml" rel="self"/>
   <link href="http://tomku.forktree.com/"/>
-  <updated>2012-10-13T20:18:22-05:00</updated>
+  <updated>2012-10-13T20:27:33-05:00</updated>
   <id>http://tomku.forktree.com/</id>
   <author>
     <name><![CDATA[Tom Kurth]]></name>
@@ -12,14 +12,5 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[testing]]></title>
-    <link href="http://tomku.forktree.com/blog/2012/10/13/testing/"/>
-    <updated>2012-10-13T19:57:00-05:00</updated>
-    <id>http://tomku.forktree.com/blog/2012/10/13/testing</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
   
 </feed>
